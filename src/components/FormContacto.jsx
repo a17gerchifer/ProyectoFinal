@@ -2,7 +2,7 @@ import React from 'react'
 
 const FormContacto = () => {
 return (
-    <div className="container contact">
+    <div className="container contact espacioTop">
         <div className="row">
             <div className="col-md-8 col-12 mx-auto">
                 <div className="card shadow-lg border-0 p-4">

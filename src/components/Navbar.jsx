@@ -30,7 +30,7 @@ const Navbar = () => {
                             <NavLink className="nav-link" activeClassName="active_class" exact to="/contact">Contacto</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" activeClassName="active_class" exact to="/contact">Login</NavLink>
+                            <NavLink className="nav-link" activeClassName="active_class" exact to="/login">Login</NavLink>
                         </li>
                     </ul>
                 </div>
