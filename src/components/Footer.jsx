@@ -13,13 +13,13 @@ const Footer = () => {
                     </div>
                     <div className="col-md-6 col-12">
                         <div className="d-flex float-right">
-                            <a href="">
+                            <a href="http://labs.iam.cat/">
                                 <FaFacebookSquare className="connect text-dark" /></a>
-                            <a href="">
+                            <a href="http://labs.iam.cat/">
                                 <FaLinkedin className="connect text-dark" /></a>
-                            <a href="">
+                            <a href="http://labs.iam.cat/">
                                 <AiFillInstagram className="connect text-dark" /></a>
-                            <a href="">
+                            <a href="http://labs.iam.cat/">
                                 <IoLogoYoutube className="connect text-dark" /></a>
                         </div>
                     </div>
