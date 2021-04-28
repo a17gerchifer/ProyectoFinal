@@ -10,9 +10,7 @@ index.js
 Banener.jsx
 Hero.jsx
 FeaturedRooms.jsx
-Room.jsx
 RoomsContainer.jsx
-RoomsFilter.jsx
 RoomsList.jsx
 Services.jsx
 StyledHero.jsx
