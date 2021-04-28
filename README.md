@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Projecte final
 
-## Available Scripts
+## Gerard Chicote, Joel Rodriguez, Carlos Erencia, Jordi Cervera
 
 In the project directory, you can run:
 
