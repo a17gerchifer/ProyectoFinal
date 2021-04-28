@@ -18,7 +18,7 @@ export default class Services extends Component {
             {
                 icon:<FaShuttleVan/>,
                 title: "Transporte",
-                info: "El hotel esta ubicado en una buena zona para el transporte publico y disponemos de parquing para clientes"
+                info: "Ubicado en una buena zona para el transporte publico y disponemos de parquing para clientes"
             },
             {
                 icon:<FaBeer/>,
@@ -31,7 +31,7 @@ export default class Services extends Component {
     render() {
         return (
             <div className="container-fluid services">
-             <Title title="Services" />
+             <Title title="Servicios" />
                 <div className="row">
                    {this.state.services.map((item, index) => {
                       return(
