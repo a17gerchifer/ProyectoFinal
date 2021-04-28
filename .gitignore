@@ -7,9 +7,8 @@ App.css
 index.css
 index.js
 
-Banener.jsx
+Banner.jsx
 Hero.jsx
-FeaturedRooms.jsx
 RoomsContainer.jsx
 RoomsList.jsx
 Services.jsx
