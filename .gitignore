@@ -1,4 +1,10 @@
-pages/
+Booknow.jsx
+Contact.jsx
+Error.jsx
+Home.jsx
+SingleRoom.jsx
+
+
 images/
 App.js
 context.js
