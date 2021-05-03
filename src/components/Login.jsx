@@ -10,7 +10,7 @@ const Login = () => {
   }
 
     const responseGoogle = (response) => {
-        console.log(response.profileObj);
+        console.log(response);
       }
 
     return (

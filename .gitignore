@@ -16,3 +16,7 @@ StyledHero.jsx
 Title.jsx
 
 node_modules
+build
+
+# Local Netlify folder
+.netlify
