@@ -1,5 +1,4 @@
 import React from 'react';
-import axios from 'axios';
 import {Link} from 'react-router-dom';
 import defaultImg from '../images/room-1.jpeg';
 import PropTypes from 'prop-types';
@@ -22,14 +21,6 @@ export default function Room({room}) {
         </div>
     )
 }
- componentDidMount(){
-     axios.get(`http://localhost:4000/api/todos/`)
-     .then(res=> {
-         const room = res.data;
-         this.setState({room});
-         console.log(res.data);
-     })
- }
  
 Room.propTypes = {
     room: PropTypes.shape({
