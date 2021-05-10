@@ -37,7 +37,7 @@ const FormContacto = () => {
                     <label htmlFor="Mensaje">Mensaje:</label>
                     <textarea id="Mensaje" required />
                 </div>
-                <button type="submit">{status}</button>
+                <button class="boton" type="submit">{status}</button>
             </form>
       </div>
     
