@@ -1,6 +1,7 @@
 import React from 'react'
 import GoogleLogin from 'react-google-login';
 import FacebookLogin from 'react-facebook-login';
+import PersonList from '../../src/PersonList'
 
 
 const Login = () => {
@@ -33,6 +34,8 @@ const Login = () => {
             icon="fa-facebook" 
           />
          </div>
+          <PersonList></PersonList>
+
         </div>
     )
   }
