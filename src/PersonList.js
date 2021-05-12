@@ -6,7 +6,7 @@ export default class PersonList extends React.Component {
   state = {
     persons: []
   }
-//holaccccccgg
+
   componentDidMount() {
     axios.get(`http://localhost:4000/api/todos`)
       .then(res => {
