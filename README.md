@@ -7,7 +7,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open per localhost [http://localhost:3000](http://localhost:3000) to view it in the browser. Això quan el volem iniciar des de amazon: [http://34.226.202.240:4000/](http://34.226.202.240:4000)
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
@@ -37,32 +37,32 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+# Documentació tècnica
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+##Projecte funcional
 
-### Making a Progressive Web App
+localhost [http://localhost:3000](http://localhost:3000)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+amazon: [http://34.226.202.240:4000/](http://34.226.202.240:4000)
 
-### Advanced Configuration
+##Jira
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+http://labs.iam.cat:8080/secure/RapidBoard.jspa?rapidView=87&projectKey=DAWSIN6
 
-### Deployment
+##Explicació
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+El nostre projecte està dividit en dues parts, frontend y backend.
 
-### `npm run build` fails to minify.
+Tenim dues carpetes generals, una per al frontend y un altre per backend.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+A la carpeta del front tenim tota la página y a la del back només tenim la api
+
+Per iniciar tot el projecte sencer em de fer `npm start tant` a la carpeta del frontend com la del backend
+
+
+
